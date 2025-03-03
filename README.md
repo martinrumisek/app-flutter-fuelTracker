@@ -1,16 +1,16 @@
-# app
+# Školní projekt (úkol)
+Vytvoření aplikace ve flutteru na výpočet průměrné spotřeby paliva
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Zadání: 
+#### Úkol: Vytvořte aplikaci pro výpočet průměrné spotřeby vozidla
+Nastudujte si kurz Flutter - Tutorial for Beginners.
+<br>
+Na základě získaných znalostí vytvořte s využitím frameworku Flutter aplikaci, která umožní zadávat údaje o tankování paliva do automobilu (datum, stav tachometru, množství paliva, cena za litr, poznámky) a spočítá průměrnou spotřebu na základě uvedených údajů.
+<br>
+Upravte rozložení a vzhled prvků tak, aby aplikace byla uživatelsky přívětivá a dobře se ovládala.
+<br>
+Údaje zatím nemusíte ukládat trvale, po vypnutí aplikace se údaje mohou zapomenout. Permanantní ukládání dat bude předmětem dalšího bloku výuky.
+<br>
+Aplikaci publikujte na GitHubu a vložte odkaz na repozitář s aplikací.
+<br>
+Poznámka: Cílem není „nějak zprovoznit aplikaci“, ale naučit se vytvářet aplikace obdobného rozsahu tak, abyste podobnou aplikaci byli schopni napsat sami pouze s využitím našeptávače ve vývojovém prostředí — bez dívání do materiálů.
